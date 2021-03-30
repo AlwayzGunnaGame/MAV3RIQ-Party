@@ -1,0 +1,204 @@
+{
+  "From": "0.1.7",
+  "To": "0.1.8",
+  "Hash": "kLM4gr9ERfyzCtMDsB4SAKWwbVY",
+  "TotalSize": 41298980,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/data.unity3d",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:47:22.6430359Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:48.1400482Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Aura2_Core.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.2975197Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/BitpackersASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.159521Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Cinemachine.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:47.3380362Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/EmoCompressUtilsASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.0725266Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/HalfFloatASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.3015201Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/PhotonChat.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.1245214Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/PhotonRealtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.3175203Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:46.2810359Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.3990355Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.6470358Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.5625199Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.ProBuilder.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.4070359Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.ProBuilder.KdTree.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.4685204Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.3985214Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.ProBuilder.Stl.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.3195201Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.ProGrids.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.7525198Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.5270381Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.2945216Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.6265191Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.4145212Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:46.2660351Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.6425219Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:45.3860362Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:44.7235182Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Party_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:44:43.2745189Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-03-29T23:50:18.3805068Z",
+      "Size": 0
+    }
+  ]
+}
